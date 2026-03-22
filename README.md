@@ -9,14 +9,14 @@
 ## 🧠 About Me
 
 ```python
-class Sahil:
+class Ravsaheb:
     def __init__(self):
         self.role = "Data Analyst"
         self.skills = ["Python", "SQL", "Power BI", "Excel"]
-        self.specialization = "Data Cleaning | Visualization | Insights"
+        self.specialization = ["Data Cleaning", "Data Visualization", "Insight Generation"]
 
     def goal(self):
-        return "Help businesses make data-driven decisions"
+        return "Helping businesses make data-driven decisions"
 ```
 
 ---
@@ -29,10 +29,11 @@ class Sahil:
 * SQL (MySQL)
 * Excel
 
-### 📈 Visualization
+### 📈 Data Visualization
 
 * Power BI
-* Matplotlib / Seaborn
+* Matplotlib
+* Seaborn
 
 ### ⚙️ Tools
 
@@ -43,17 +44,17 @@ class Sahil:
 
 ## 📈 What I Do
 
-✔ Clean messy data
-✔ Create dashboards & reports
-✔ Find patterns & trends
-✔ Present insights visually
+✔ Clean and preprocess raw data
+✔ Build interactive dashboards and reports
+✔ Identify patterns and trends
+✔ Deliver actionable insights
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/
-* 📧 Email: [bansoderav@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/
+* 📧 Email: [bansoderav@gmail.com](mailto:bansoderav@gmail.com)
 
 ---
 
@@ -63,4 +64,4 @@ class Sahil:
 
 ---
 
-⭐ *Data is powerful when you know how to use it.*
+⭐ *Turning data into decisions*
