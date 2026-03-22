@@ -1,7 +1,7 @@
 # 📊 Ravsaheb Bansode | Data Analyst
 
-🚀 Turning raw data into meaningful insights
-📈 Passionate about Data Visualization, Analytics & Business Intelligence
+🚀 Turning raw data into meaningful insights <br>
+📈 Passionate about Data Visualization, Analytics & Business Intelligence <br>
 📍 India
 
 ---
@@ -44,9 +44,9 @@ class Ravsaheb:
 
 ## 📈 What I Do
 
-✔ Clean and preprocess raw data
-✔ Build interactive dashboards and reports
-✔ Identify patterns and trends
+✔ Clean and preprocess raw data <br>
+✔ Build interactive dashboards and reports <br>
+✔ Identify patterns and trends <br>
 ✔ Deliver actionable insights
 
 ---
