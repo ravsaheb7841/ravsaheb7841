@@ -1,12 +1,12 @@
 <!-- 🔥 Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravsaheb+Bansode;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravsaheb+Sode;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Insights" />
 </p>
 
 ---
 
-# 📊 Ravsaheb Bansode | Data Analyst & Aspiring Data Scientist
+# 📊 Ravsaheb Sode | Data Analyst & Aspiring Data Scientist
 
 🚀 Transforming raw data into actionable insights
 📊 Passionate about Data Analytics, Data Science & Business Intelligence
@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-```python id="z1d7pl"
+```python
 class Ravsaheb:
     def __init__(self):
         self.role = "Data Analyst / Aspiring Data Scientist"
@@ -79,22 +79,6 @@ class Ravsaheb:
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/
 * 📧 Email: [bansoderav@gmail.com](mailto:bansoderav@gmail.com)
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravsaheb7841&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Chart
-
-<p align="center">
-  ![GitHub Contribution Chart](https://ghchart.rshah.org/ravsaheb7841)
-</p>
 
 ---
 
