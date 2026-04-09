@@ -58,9 +58,9 @@ class Ravsaheb:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats-three-jade-29.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats-three-jade-29.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6" height="165" />
 </p>
 
 <p align="center">
