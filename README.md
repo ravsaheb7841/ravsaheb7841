@@ -1,7 +1,15 @@
-# 📊 Ravsaheb Bansode | Data Analyst
+<!-- 🔥 Typing Animation -->
 
-🚀 Turning raw data into meaningful insights <br>
-📈 Passionate about Data Visualization, Analytics & Business Intelligence <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravsaheb+Bansode;Data+Analyst;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
+</p>
+
+---
+
+# 📊 Ravsaheb Bansode | Data Analyst & Aspiring Data Scientist
+
+🚀 Transforming raw data into actionable insights
+📊 Passionate about Data Analytics, Data Science & Business Intelligence
 📍 India
 
 ---
@@ -11,43 +19,56 @@
 ```python
 class Ravsaheb:
     def __init__(self):
-        self.role = "Data Analyst"
+        self.role = "Data Analyst / Aspiring Data Scientist"
         self.skills = ["Python", "SQL", "Power BI", "Excel"]
-        self.specialization = ["Data Cleaning", "Data Visualization", "Insight Generation"]
+        self.libraries = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+        self.specialization = [
+            "Data Cleaning",
+            "Exploratory Data Analysis (EDA)",
+            "Data Visualization",
+            "Insight Generation"
+        ]
 
     def goal(self):
-        return "Helping businesses make data-driven decisions"
+        return "To leverage data for solving real-world business problems"
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-* Python (Pandas, NumPy)
-* SQL (MySQL)
-* Excel
+---
 
-### 📈 Data Visualization
+## 📊 GitHub Stats
 
-* Power BI
-* Matplotlib
-* Seaborn
-
-### ⚙️ Tools
-
-* Jupyter Notebook
-* Git & GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravsaheb7841&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 What I Do
 
-✔ Clean and preprocess raw data <br>
-✔ Build interactive dashboards and reports <br>
-✔ Identify patterns and trends <br>
+✔ Clean and preprocess raw data
+✔ Perform Exploratory Data Analysis (EDA)
+✔ Build interactive dashboards & reports
+✔ Identify trends and patterns
+✔ Apply Machine Learning basics
 ✔ Deliver actionable insights
+
+---
+
+## 🚀 Projects
+
+* 📊 Movie Recommendation System
+* 🌦️ Weather + Spotify Mood Analyzer
+* 📰 News Dashboard (Deployed)
+* 🤖 Fake News Detection System *(In Progress)*
 
 ---
 
@@ -58,10 +79,24 @@ class Ravsaheb:
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravsaheb7841&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ravsaheb7841/ravsaheb7841/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 💬 Quote
 
 *"Without data, you're just another person with an opinion."*
 
 ---
 
-⭐ *Turning data into decisions*
+⭐ **Turning data into decisions**
