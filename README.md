@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-```python id="x1d9pl"
+```python id="z1d7pl"
 class Ravsaheb:
     def __init__(self):
         self.role = "Data Analyst / Aspiring Data Scientist"
@@ -90,9 +90,11 @@ class Ravsaheb:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Chart
 
-![snake gif](https://github.com/ravsaheb7841/ravsaheb7841/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  ![GitHub Contribution Chart](https://ghchart.rshah.org/ravsaheb7841)
+</p>
 
 ---
 
