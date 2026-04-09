@@ -1,8 +1,9 @@
-<!-- Typing Animation -->
+<!-- Header Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravsaheb+Sode+%F0%9F%91%8B;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions" alt="Typing SVG" />
 </p>
 
+<!-- Badges Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -57,13 +58,13 @@ class Ravsaheb:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_rank=false&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true&cache_seconds=1800" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravsaheb7841&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=ravsaheb7841&theme=tokyonight" />
 </p>
 
 ---
