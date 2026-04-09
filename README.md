@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravsaheb+Sode+%F0%9F%91%8B;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravsaheb+Bansode+%F0%9F%91%8B;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions" alt="Typing SVG" />
 </p>
 
 <!-- Badges Row -->
