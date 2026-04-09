@@ -1,7 +1,7 @@
 <!-- 🔥 Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravsaheb+Bansode;Data+Analyst;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravsaheb+Bansode;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Insights" />
 </p>
 
 ---
@@ -12,20 +12,23 @@
 📊 Passionate about Data Analytics, Data Science & Business Intelligence
 📍 India
 
+<br>
+
 ---
 
 ## 🧠 About Me
 
-```python
+```python id="x1d9pl"
 class Ravsaheb:
     def __init__(self):
         self.role = "Data Analyst / Aspiring Data Scientist"
         self.skills = ["Python", "SQL", "Power BI", "Excel"]
-        self.libraries = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+        self.libraries = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
         self.specialization = [
             "Data Cleaning",
             "Exploratory Data Analysis (EDA)",
             "Data Visualization",
+            "Machine Learning",
             "Insight Generation"
         ]
 
@@ -38,7 +41,7 @@ class Ravsaheb:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter" />
 </p>
 
 ---
@@ -58,7 +61,7 @@ class Ravsaheb:
 ✔ Perform Exploratory Data Analysis (EDA)
 ✔ Build interactive dashboards & reports
 ✔ Identify trends and patterns
-✔ Apply Machine Learning basics
+✔ Apply Machine Learning models
 ✔ Deliver actionable insights
 
 ---
