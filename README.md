@@ -49,7 +49,7 @@ class Ravsaheb:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_rank=false&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravsaheb7841&theme=tokyonight" />
 </p>
 
