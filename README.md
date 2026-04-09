@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-```python
+```python id="r2j8pl"
 class Ravsaheb:
     def __init__(self):
         self.role = "Data Analyst / Aspiring Data Scientist"
@@ -49,9 +49,15 @@ class Ravsaheb:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravsaheb7841&theme=tokyonight" />
 </p>
+
+> ✅ **Fix Notes:**
+>
+> * `hide_title=true` → clean card without extra title
+> * `count_private=true` → counts private contributions (if repo private)
+> * `hide_rank=false` → rank visible
 
 ---
 
