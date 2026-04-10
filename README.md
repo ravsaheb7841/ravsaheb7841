@@ -27,10 +27,9 @@ class Ravsaheb:
         self.libraries   = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
         self.focus       = ["EDA", "Data Visualization", "Machine Learning", "Business Insights"]
         self.location    = "India 🇮🇳"
-
     def goal(self):
         return "Leverage data to solve real-world business problems 🚀"
-```
+` ` `
 
 ---
 
@@ -63,8 +62,11 @@ class Ravsaheb:
   <img src="https://github-readme-stats-three-jade-29.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6" height="165" />
 </p>
 
+<!-- ✅ FIXED: Real-time streak using demolab.com (reliable hosted version) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ravsaheb7841&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ravsaheb7841&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
@@ -78,13 +80,13 @@ class Ravsaheb:
 ✔  Identify trends, patterns & business signals
 ✔  Apply and evaluate Machine Learning models
 ✔  Deliver clear, actionable insights to stakeholders
-```
+` ` `
 
 ---
 
 ## 💬 Quote
 
-> *"Without data, you're just another person with an opinion."*
+> *"Without data, you're just another person with an opinion."*  
 > — W. Edwards Deming
 
 ---
