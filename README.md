@@ -29,7 +29,7 @@ class Ravsaheb:
         self.location    = "India 🇮🇳"
     def goal(self):
         return "Leverage data to solve real-world business problems 🚀"
-` ` `
+```
 
 ---
 
@@ -62,7 +62,6 @@ class Ravsaheb:
   <img src="https://github-readme-stats-three-jade-29.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6" height="165" />
 </p>
 
-<!-- ✅ FIXED: Real-time streak using demolab.com (reliable hosted version) -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=ravsaheb7841&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
@@ -73,20 +72,18 @@ class Ravsaheb:
 
 ## 📈 What I Do
 
-```
 ✔  Clean and preprocess messy, real-world data
 ✔  Perform deep Exploratory Data Analysis (EDA)
 ✔  Build interactive dashboards & BI reports
 ✔  Identify trends, patterns & business signals
 ✔  Apply and evaluate Machine Learning models
 ✔  Deliver clear, actionable insights to stakeholders
-` ` `
 
 ---
 
 ## 💬 Quote
 
-> *"Without data, you're just another person with an opinion."*  
+> *"Without data, you're just another person with an opinion."*
 > — W. Edwards Deming
 
 ---
