@@ -69,17 +69,6 @@ class Ravsaheb:
 
 ---
 
-## 🚀 Projects
-
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 🎬 | **Movie Recommendation System** | Collaborative filtering & content-based ML model for personalized recommendations | ✅ Done |
-| 🌦️ | **Weather + Spotify Mood Analyzer** | Cross-API pipeline mapping weather data to music mood profiles | ✅ Done |
-| 📰 | **News Dashboard** | Live deployed dashboard aggregating and visualizing trending news | 🚀 Deployed |
-| 🤖 | **Fake News Detection System** | NLP-based classification model to identify misinformation in articles | 🔧 In Progress |
-
----
-
 ## 📈 What I Do
 
 ```
