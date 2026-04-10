@@ -72,12 +72,14 @@ class Ravsaheb:
 
 ## 📈 What I Do
 
-✔  Clean and preprocess messy, real-world data
-✔  Perform deep Exploratory Data Analysis (EDA)
-✔  Build interactive dashboards & BI reports
-✔  Identify trends, patterns & business signals
-✔  Apply and evaluate Machine Learning models
-✔  Deliver clear, actionable insights to stakeholders
+<p>
+  ✔ &nbsp; Clean and preprocess messy, real-world data <br>
+  ✔ &nbsp; Perform deep Exploratory Data Analysis (EDA) <br>
+  ✔ &nbsp; Build interactive dashboards & BI reports <br>
+  ✔ &nbsp; Identify trends, patterns & business signals <br>
+  ✔ &nbsp; Apply and evaluate Machine Learning models <br>
+  ✔ &nbsp; Deliver clear, actionable insights to stakeholders
+</p>
 
 ---
 
