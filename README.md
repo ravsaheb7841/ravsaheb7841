@@ -1,95 +1,78 @@
-<!-- Header Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravsaheb+Bansode+%F0%9F%91%8B;Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ravsaheb%20Bansode&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20raw%20data%20into%20decisions&descAlignY=58&descSize=18" />
 
-<!-- Badges Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:bansoderav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-1D9E75?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ravsaheb7841&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 🧠 About Me
-
-```python
-class Ravsaheb:
-    def __init__(self):
-        self.role        = "Data Analyst / Aspiring Data Scientist"
-        self.stack       = ["Python", "SQL", "Power BI", "Excel"]
-        self.libraries   = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
-        self.focus       = ["EDA", "Data Visualization", "Machine Learning", "Business Insights"]
-        self.location    = "India 🇮🇳"
-    def goal(self):
-        return "Leverage data to solve real-world business problems 🚀"
-```
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&theme=dark" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3B7DD8?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+Python+%2B+SQL;Turning+messy+data+into+clear+insights;Open+to+Data+%2F+ML+opportunities!&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=22" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 About Me
+
+I'm a Data Analyst who enjoys digging into messy datasets and turning them into clear, actionable insights. I work across the full pipeline — SQL, EDA, dashboards, and lightweight AI-powered tools that automate analysis.
+
+I'm currently **open to Data Analyst / Data Science opportunities** — feel free to reach out!
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark" />
+</p>
+
+`Data Analysis` · `EDA` · `SQL & Window Functions` · `Dashboards` · `AI-assisted Automation`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🏆 [footballer_analysis_web](https://github.com/ravsaheb7841/footballer_analysis_web) | Web app analyzing footballer performance data using Python |
+| 📊 [customer-churn-eda](https://github.com/ravsaheb7841/customer-churn-eda) | EDA on customer churn to uncover key retention drivers |
+| 🤖 [global-ai-tools-ecosystem-dashboard](https://github.com/ravsaheb7841/global-ai-tools-ecosystem-dashboard) | Dashboard mapping the global AI tools landscape |
+| 🗃️ [sql-window-functions-analytics](https://github.com/ravsaheb7841/sql-window-functions-analytics) | Advanced SQL window function techniques for analytics |
+
+> *Swap in each repo's real description, and add demo links where available.*
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-three-jade-29.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-three-jade-29.vercel.app/api/top-langs/?username=ravsaheb7841&layout=compact&theme=tokyonight&langs_count=6" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravsaheb7841&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ravsaheb7841&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ravsaheb7841&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravsaheb7841&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 📈 What I Do
-
-<p>
-  ✔ &nbsp; Clean and preprocess messy, real-world data <br>
-  ✔ &nbsp; Perform deep Exploratory Data Analysis (EDA) <br>
-  ✔ &nbsp; Build interactive dashboards & BI reports <br>
-  ✔ &nbsp; Identify trends, patterns & business signals <br>
-  ✔ &nbsp; Apply and evaluate Machine Learning models <br>
-  ✔ &nbsp; Deliver clear, actionable insights to stakeholders
-</p>
-
----
-
-## 💬 Quote
-
-> *"Without data, you're just another person with an opinion."*
-> — W. Edwards Deming
-
----
+### 🐍 Contribution Snake
 
 <p align="center">
-  <b>⭐ Turning data into decisions — one dataset at a time</b>
+  <img src="https://raw.githubusercontent.com/ravsaheb7841/ravsaheb7841/output/github-contribution-grid-snake.svg" />
 </p>
+
+> ⚠️ This snake animation needs a one-time GitHub Action setup — instructions below.
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravsaheb-bansode-a75a802a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — check out my pinned repos above ⬆️</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
