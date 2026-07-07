@@ -1,38 +1,176 @@
-<h1 align="center">Hi 👋, I'm Ravsaheb</h1>
-<h3 align="center">A passionate Data Analyst who loves turning messy data into actionable insights</h3>
+<div align="center">
 
-# 💫 About Me:
-I'm a Data Analyst who enjoys digging into messy datasets and turning them into clear, actionable insights. I work across the full pipeline — SQL, EDA, dashboards, and lightweight AI-powered tools that automate analysis.<br><br>
-I'm currently open to Data Analyst / Data Science opportunities — feel free to reach out!
+# 👋 Hi, I'm Ravsaheb Bansode
 
-- 🔭 I'm currently working on: **data cleaning, EDA & dashboarding projects**
-- 🌱 I'm currently learning: **advanced SQL, ML fundamentals, and AI-assisted analytics tools**
-- 💬 Ask me about: **Python, SQL, EDA, Data Visualization**
-- 📫 How to reach me: **[add your email or LinkedIn here]**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst;Aspiring+Data+Scientist;SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Business+Insights;Always+Learning+Something+New" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ravsaheb7841&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ravsaheb7841&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravsaheb7841&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
-### 🌐 Connect with me:
+# 💫 About Me
+
+💼 Data Analyst passionate about transforming raw data into meaningful insights.
+
+📊 Skilled in SQL, Python, Excel, Power BI, data visualization, and exploratory data analysis.
+
+🤖 Building AI-powered analytical tools that automate workflows and simplify decision-making.
+
+📈 Interested in Business Intelligence, Machine Learning, and Data Science.
+
+🚀 Currently open to **Data Analyst**, **Business Analyst**, and **Data Science** opportunities.
+
+🌱 Constantly learning new technologies and improving analytical skills.
+
+📫 Reach me at **your.email@example.com**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin_username">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
 </p>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=ravsaheb7841&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,r" />
+</p>
+
+### Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,figma" />
+</p>
+
+---
+
+# 🚀 Featured Skills
+
+✅ Data Cleaning
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Dashboard Development
+
+✅ SQL Query Optimization
+
+✅ Data Visualization
+
+✅ Business Intelligence
+
+✅ Machine Learning Basics
+
+✅ Statistical Analysis
+
+✅ Predictive Analytics
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+- 📊 Building Data Analytics Projects
+- 🤖 AI-powered Data Applications
+- 📈 Power BI Dashboards
+- 🐍 Advanced Python for Data Analysis
+- ☁ Learning Cloud & Big Data Technologies
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Awesome!" />
+
+</div>
