@@ -63,7 +63,7 @@ I'm currently **open to Data Analyst / Data Science opportunities** — feel fre
   <img src="https://raw.githubusercontent.com/ravsaheb7841/ravsaheb7841/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ This snake animation needs a one-time GitHub Action setup — instructions below.
+> ⚠️ This only renders after you add the one-time GitHub Action below to your profile repo.
 
 ---
 
