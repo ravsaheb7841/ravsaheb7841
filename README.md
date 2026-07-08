@@ -26,51 +26,20 @@ I work across the complete analytics workflow—from **data cleaning and SQL ana
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" />
 </p>
 
-`Python` • `SQL` • `PostgreSQL` • `MySQL` • `Power BI` • `Excel` • `Git` • `GitHub`
+**Languages & Databases:**  
+`Python` • `SQL` • `PostgreSQL` • `MySQL`
 
----
+**Data Analytics:**  
+`Power BI` • `Excel` • `Data Analysis` • `EDA` • `Data Visualization`
 
-## 💡 Skills
+**Libraries:**  
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
 
-### 📊 Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Wrangling
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Data Storytelling
-- Statistical Analysis
-
-### 💻 Programming
-- Python
-- SQL
-- PostgreSQL
-- MySQL
-
-### 📚 Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-### ⚙️ Tools
-- Power BI
-- Microsoft Excel
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
-### 🧠 Concepts
-- SQL Window Functions
-- Machine Learning Basics
-- Problem Solving
-- Critical Thinking
-- AI-assisted Automation
+**Tools:**  
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
 
 ---
 
