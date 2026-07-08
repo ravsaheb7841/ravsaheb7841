@@ -35,7 +35,7 @@ I'm currently **open to Data Analyst / Data Science opportunities** — feel fre
 
 | Project | Description |
 |---|---|
-| 🏆 [footballer_analysis_web](https://github.com/ravsaheb7841/footballer_analysis_web) | Web app analyzing footballer performance data using Python |
+| 🏆 [Superstore_Sales_Dashboard](https://github.com/yourusername/superstore-sales-dashboard) | Power BI dashboard analyzing Superstore sales data with KPIs, heatmaps, and interactive filters |
 | 📊 [customer-churn-eda](https://github.com/ravsaheb7841/customer-churn-eda) | EDA on customer churn to uncover key retention drivers |
 | 🤖 [global-ai-tools-ecosystem-dashboard](https://github.com/ravsaheb7841/global-ai-tools-ecosystem-dashboard) | Dashboard mapping the global AI tools landscape |
 | 🗃️ [sql-window-functions-analytics](https://github.com/ravsaheb7841/sql-window-functions-analytics) | Advanced SQL window function techniques for analytics |
